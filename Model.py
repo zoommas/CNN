@@ -50,7 +50,6 @@ def main():
     plt.ylim([0.5, 1])
     plt.legend(loc='lower right')
     plt.savefig("training_plot.png")
-    plt.show()
 
     test_loss, test_acc = model.evaluate(x_test,  y_test, verbose=2)
     print(test_acc)
