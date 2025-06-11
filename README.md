@@ -7,7 +7,7 @@ and the [Tensorflow Documentation for CNNs](https://www.tensorflow.org/tutorials
 
 1. Clone the repo
 2. Download the dataset and change the datapath accordingly
-3. Run Model.py
+3. Run train.py
 
 ## Dataset
 
