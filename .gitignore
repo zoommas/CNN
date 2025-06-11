@@ -1,5 +1,5 @@
-data/mnist_train.csv
-data/mnist_test.csv
 __pycache__/
+*.pyc
 .DS_Store
-data/mnist_train.csv
+data/*.csv
+*.h5
